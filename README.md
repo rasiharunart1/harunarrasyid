@@ -11,9 +11,9 @@
 Saya adalah seorang **Full-Stack Developer** dan **Data Enthusiast** yang passionate dalam mengintegrasikan teknologi IoT dengan kecerdasan buatan untuk menciptakan solusi inovatif. Dari sensor hingga server, dari data hingga deployment - saya suka membangun sistem end-to-end yang powerful dan scalable.
 
 ```python
-class RasihArun:
+class HarunAr:
     def __init__(self):
-        self.name = "Rasih Arun"
+        self.name = "Harun Ar Rasyid"
         self.role = ["IoT Developer", "Data Scientist", "ML Engineer", "Web Developer"]
         self.code = ["Python", "PHP", "JavaScript", "C++", "SQL"]
         self.current_focus = "Building intelligent IoT systems with ML"
@@ -22,7 +22,7 @@ class RasihArun:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
-me = RasihArun()
+me = HarunAr()
 me.say_hi()
 ```
 
