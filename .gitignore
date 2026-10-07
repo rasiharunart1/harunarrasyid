@@ -1,0 +1,13 @@
+# Environment variables
+.env
+*.local
+
+# Temporary browser profiles and caches
+.edge-responsive-profile/
+*/.edge-responsive-profile/
+
+# Node & Python caches
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
